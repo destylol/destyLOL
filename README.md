@@ -1,6 +1,7 @@
 # where you can contact me
-
-# via discord: destylol
+via discord: destylol
 
 # i can code lua, python and some other basics
-# new projects soon
+new projects soon
+
+fluent coming soon.
